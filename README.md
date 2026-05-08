@@ -246,4 +246,7 @@ Aspiring Data Analyst | SQL | Power BI | Python | Business Intelligence
 
 # ⭐ Final Note
 
+**This is not my official portfolio. It's a one of my project I have worked on when I was persuing a course the web development name: MERN Stack Application Development.
+**This is just for my practice purspose not for any personal or commercial use.
 **If you found this project a great creation and learning opportunity, give it a star on Github. 
+**Thank you for the consideration.
