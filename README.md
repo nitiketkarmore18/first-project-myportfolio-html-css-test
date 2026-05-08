@@ -96,8 +96,6 @@ The application focuses on delivering:
 
 ## Frontend
 
-* React.js
-* JavaScript (ES6+)
 * HTML5
 * CSS3
 * Tailwind CSS
@@ -107,7 +105,6 @@ The application focuses on delivering:
 * Git
 * GitHub
 * VS Code
-* npm
 
 ## Deployment
 
